@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A70D82EA-8CB6-CCD6-EFB1-37600F5B22EC}") = "skripshit - Copy", "Assembly-CSharp.csproj", "{5C3D8A92-0D37-314A-8352-2557D139F79C}"
+EndProject
+Project("{A70D82EA-8CB6-CCD6-EFB1-37600F5B22EC}") = "skripshit - Copy", "Assembly-CSharp-Editor.csproj", "{02A72DEC-1E92-9809-2F97-AEBB833994EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3D8A92-0D37-314A-8352-2557D139F79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3D8A92-0D37-314A-8352-2557D139F79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3D8A92-0D37-314A-8352-2557D139F79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3D8A92-0D37-314A-8352-2557D139F79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A72DEC-1E92-9809-2F97-AEBB833994EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A72DEC-1E92-9809-2F97-AEBB833994EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A72DEC-1E92-9809-2F97-AEBB833994EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A72DEC-1E92-9809-2F97-AEBB833994EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

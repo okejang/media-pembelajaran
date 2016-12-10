@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 2b45980765be08e4ca89a7ab2da8eb9c
+timeCreated: 1471413730
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jelly_0
+    21300002: Jelly_1
+    21300004: Jelly_2
+    21300006: Jelly_3
+    21300008: Jelly_4
+    21300010: Jelly_5
+    21300012: Jelly_6
+    21300014: Jelly_7
+    21300016: Jelly_8
+    21300018: Jelly_9
+    21300020: Jelly_10
+    21300022: Jelly_11
+    21300024: Jelly_12
+    21300026: Jelly_13
+    21300028: Jelly_14
+    21300030: Jelly_15
+    21300032: Jelly_16
+    21300034: Jelly_17
+    21300036: Jelly_18
+    21300038: Jelly_19
+    21300040: Jelly_20
+    21300042: Jelly_21
+    21300044: Jelly_22
+    21300046: Jelly_23
+    21300048: Jelly_24
+    21300050: Jelly_25
+    21300052: Jelly_26
+    21300054: Jelly_27
+    21300056: Jelly_28
+    21300058: Jelly_29
+    21300060: Jelly_30
+    21300062: Jelly_31
+    21300064: Jelly_32
+    21300066: Jelly_33
+    21300068: Jelly_34
+    21300070: Jelly_35
+    21300072: Jelly_36
+    21300074: Jelly_37
+    21300076: Jelly_38
+    21300078: Jelly_39
+    21300080: Jelly_40
+    21300082: Jelly_41
+    21300084: Jelly_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Jelly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1389
+        width: 335
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 38.39862}
+        - {x: -30.5, y: 38.39862}
+        - {x: -37.5, y: 32.39862}
+        - {x: -41.5, y: 27.39862}
+        - {x: -41.5, y: -30.60138}
+        - {x: -39.5, y: -35.60138}
+        - {x: -29.5, y: -37.60138}
+        - {x: 36.5, y: -37.60138}
+        - {x: 41.5, y: -27.60138}
+        - {x: 41.5, y: 35.39862}
+    - name: Jelly_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1389
+        width: 338
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.678093, y: 41.39862}
+        - {x: -41.678093, y: 32.39862}
+        - {x: -41.678093, y: -40.60138}
+        - {x: 42.321907, y: -40.60138}
+        - {x: 42.321907, y: 41.39862}
+    - name: Jelly_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1389
+        width: 337
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.61882, y: 35.89862}
+        - {x: -41.61882, y: 19.89862}
+        - {x: -41.61882, y: -35.10138}
+        - {x: 26.38118, y: -35.10138}
+        - {x: 42.38118, y: -30.10138}
+        - {x: 42.38118, y: 25.89862}
+        - {x: 22.38118, y: 35.89862}
+    - name: Jelly_3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1389
+        width: 337
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.626953, y: 38.89862}
+        - {x: -41.626953, y: 25.89862}
+        - {x: -41.626953, y: -33.10138}
+        - {x: -37.626953, y: -38.10138}
+        - {x: 37.373047, y: -38.10138}
+        - {x: 42.373047, y: -37.10138}
+        - {x: 42.373047, y: 38.89862}
+    - name: Jelly_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1389
+        width: 337
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.364014, y: 38.89862}
+        - {x: -41.364014, y: 37.89862}
+        - {x: -41.364014, y: -31.10138}
+        - {x: -31.364014, y: -38.10138}
+        - {x: 26.635986, y: -38.10138}
+        - {x: 41.635986, y: -32.10138}
+        - {x: 41.635986, y: 35.89862}
+        - {x: 40.635986, y: 38.89862}
+    - name: Jelly_5
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1390
+        width: 335
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.355316, y: 38.64441}
+        - {x: -41.355316, y: -29.35559}
+        - {x: -27.355316, y: -37.35559}
+        - {x: 29.644684, y: -37.35559}
+        - {x: 41.644684, y: -30.35559}
+        - {x: 41.644684, y: 23.64441}
+        - {x: 39.644684, y: 38.64441}
+    - name: Jelly_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1060
+        width: 313
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.457874, y: 35.034576}
+        - {x: -38.542126, y: 35.034576}
+        - {x: -38.542126, y: -25.965424}
+        - {x: -36.542126, y: -33.965424}
+        - {x: 15.457874, y: -33.965424}
+        - {x: 27.457874, y: -30.965424}
+        - {x: 36.457874, y: -21.965424}
+        - {x: 39.457874, y: -16.965424}
+        - {x: 39.457874, y: 34.034576}
+    - name: Jelly_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1060
+        width: 304
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.482857, y: 39.034576}
+        - {x: -30.482857, y: 31.034576}
+        - {x: -36.482857, y: 23.034576}
+        - {x: -37.482857, y: 23.034576}
+        - {x: -37.482857, y: -26.965424}
+        - {x: -33.482857, y: -37.965424}
+        - {x: 37.517143, y: -37.965424}
+        - {x: 38.517143, y: -33.965424}
+        - {x: 38.517143, y: 33.034576}
+        - {x: 25.517143, y: 39.034576}
+    - name: Jelly_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1060
+        width: 305
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.686218, y: 33.034576}
+        - {x: -36.68622, y: 21.034576}
+        - {x: -37.68622, y: 17.034576}
+        - {x: -37.68622, y: -17.965424}
+        - {x: -32.68622, y: -29.965424}
+        - {x: -27.686218, y: -31.965424}
+        - {x: 24.313782, y: -31.965424}
+        - {x: 38.31378, y: -28.965424}
+        - {x: 38.31378, y: 24.034576}
+        - {x: 16.313782, y: 33.034576}
+    - name: Jelly_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1060
+        width: 301
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.211212, y: 36.034576}
+        - {x: -37.211212, y: 28.034576}
+        - {x: -37.211212, y: -32.965424}
+        - {x: -29.211212, y: -34.965424}
+        - {x: 30.788788, y: -34.965424}
+        - {x: 37.788788, y: -25.965424}
+        - {x: 37.788788, y: 30.034576}
+        - {x: 24.788788, y: 36.034576}
+    - name: Jelly_10
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1060
+        width: 309
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.41458, y: 35.534576}
+        - {x: -38.41458, y: -28.465424}
+        - {x: -29.414581, y: -34.465424}
+        - {x: 34.58542, y: -34.465424}
+        - {x: 38.58542, y: -22.465424}
+        - {x: 38.58542, y: 32.534576}
+        - {x: 27.585419, y: 35.534576}
+    - name: Jelly_11
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1060
+        width: 305
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.905853, y: 35.034576}
+        - {x: -37.905853, y: -32.965424}
+        - {x: -36.905853, y: -33.965424}
+        - {x: 27.094147, y: -33.965424}
+        - {x: 38.094147, y: -29.965424}
+        - {x: 38.094147, y: 35.034576}
+    - name: Jelly_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 734
+        width: 313
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.542126, y: -33.592087}
+        - {x: 26.457874, y: -33.592087}
+        - {x: 39.457874, y: -29.592087}
+        - {x: 39.457874, y: 34.407913}
+        - {x: -38.542126, y: 34.407913}
+        - {x: -38.542126, y: -25.592087}
+    - name: Jelly_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 734
+        width: 304
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.482857, y: 38.407913}
+        - {x: -37.482857, y: -37.592087}
+        - {x: 28.517143, y: -37.592087}
+        - {x: 38.517143, y: -29.592087}
+        - {x: 38.517143, y: 25.407913}
+        - {x: 21.517143, y: 38.407913}
+    - name: Jelly_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 734
+        width: 305
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.686218, y: 32.407913}
+        - {x: -37.68622, y: 11.407913}
+        - {x: -37.68622, y: -23.592087}
+        - {x: -27.686218, y: -31.592087}
+        - {x: 34.31378, y: -31.592087}
+        - {x: 38.31378, y: -24.592087}
+        - {x: 38.31378, y: 12.407913}
+        - {x: 23.313782, y: 32.407913}
+    - name: Jelly_15
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 734
+        width: 301
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.211212, y: 35.407913}
+        - {x: -21.211212, y: 34.407913}
+        - {x: -36.211212, y: 23.407913}
+        - {x: -37.211212, y: 13.407913}
+        - {x: -37.211212, y: -23.592087}
+        - {x: -33.211212, y: -34.592087}
+        - {x: 35.788788, y: -34.592087}
+        - {x: 37.788788, y: -32.592087}
+        - {x: 37.788788, y: 28.407913}
+        - {x: 32.788788, y: 35.407913}
+    - name: Jelly_16
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 734
+        width: 309
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.41458, y: 35.407913}
+        - {x: -38.41458, y: 28.407913}
+        - {x: -38.41458, y: -34.592087}
+        - {x: 38.58542, y: -34.592087}
+        - {x: 38.58542, y: 35.407913}
+    - name: Jelly_17
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 734
+        width: 305
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.905853, y: 34.907913}
+        - {x: -37.905853, y: -31.092087}
+        - {x: -28.905853, y: -34.092087}
+        - {x: 35.094147, y: -34.092087}
+        - {x: 38.094147, y: -30.092087}
+        - {x: 38.094147, y: 34.907913}
+    - name: Jelly_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 393
+        width: 313
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.542126, y: 35.09442}
+        - {x: -36.542126, y: 28.094421}
+        - {x: -38.542126, y: 25.094421}
+        - {x: -38.542126, y: -25.905579}
+        - {x: -23.542126, y: -33.90558}
+        - {x: 24.457874, y: -33.90558}
+        - {x: 39.457874, y: -29.905579}
+        - {x: 39.457874, y: 35.09442}
+    - name: Jelly_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 393
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.482857, y: 38.59442}
+        - {x: -37.482857, y: -29.405579}
+        - {x: -30.482857, y: -33.40558}
+        - {x: -17.482857, y: -37.40558}
+        - {x: 26.517143, y: -37.40558}
+        - {x: 38.517143, y: -27.405579}
+        - {x: 38.517143, y: 26.594421}
+        - {x: 21.517143, y: 38.59442}
+    - name: Jelly_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 393
+        width: 305
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.686218, y: 32.59442}
+        - {x: -37.68622, y: 15.594421}
+        - {x: -37.68622, y: -21.405579}
+        - {x: -28.686218, y: -31.405579}
+        - {x: 26.313782, y: -31.405579}
+        - {x: 38.31378, y: -28.405579}
+        - {x: 38.31378, y: 17.594421}
+        - {x: 22.313782, y: 32.59442}
+    - name: Jelly_21
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 393
+        width: 301
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.211212, y: 36.09442}
+        - {x: -37.211212, y: 25.094421}
+        - {x: -37.211212, y: -33.90558}
+        - {x: -32.211212, y: -34.90558}
+        - {x: 35.788788, y: -34.90558}
+        - {x: 37.788788, y: -30.905579}
+        - {x: 37.788788, y: 36.09442}
+    - name: Jelly_22
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 393
+        width: 309
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.414581, y: 35.59442}
+        - {x: -38.41458, y: 32.59442}
+        - {x: -38.41458, y: -23.405579}
+        - {x: -32.41458, y: -33.40558}
+        - {x: -29.414581, y: -34.40558}
+        - {x: 25.585419, y: -34.40558}
+        - {x: 38.58542, y: -21.405579}
+        - {x: 38.58542, y: 31.594421}
+        - {x: 32.58542, y: 35.59442}
+    - name: Jelly_23
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 393
+        width: 305
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.905853, y: 35.09442}
+        - {x: -37.905853, y: -20.905579}
+        - {x: -34.905853, y: -33.90558}
+        - {x: 24.094147, y: -33.90558}
+        - {x: 38.094147, y: -24.905579}
+        - {x: 38.094147, y: 35.09442}
+    - name: Jelly_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 238
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 258
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_28
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 258
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_29
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 258
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_30
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 258
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_31
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 258
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_32
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 238
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_33
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 258
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_34
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 295
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_35
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 295
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_36
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 218
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.030792, y: 17.581638}
+        - {x: -16.030792, y: 15.581638}
+        - {x: -16.030792, y: -3.4183617}
+        - {x: -15.030792, y: -11.418362}
+        - {x: -11.030792, y: -16.418362}
+        - {x: 11.969208, y: -16.418362}
+        - {x: 17.969208, y: -13.418362}
+        - {x: 17.969208, y: 12.581638}
+        - {x: 13.969208, y: 17.581638}
+    - name: Jelly_37
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 271
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_38
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 271
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_39
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 258
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_40
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 271
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_41
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 258
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Jelly_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 335
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 19}
+        - {x: -41.5, y: 8}
+        - {x: -41.5, y: -18}
+        - {x: -39.5, y: -19}
+        - {x: 34.5, y: -19}
+        - {x: 41.5, y: -10}
+        - {x: 41.5, y: 14}
+        - {x: 33.5, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

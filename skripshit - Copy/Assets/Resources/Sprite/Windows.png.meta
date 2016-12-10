@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: ba4e716c9af7d874fa3871b8f5dde0ac
+timeCreated: 1471413587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windows_0
+    21300002: Windows_1
+    21300004: Windows_2
+    21300006: Windows_3
+    21300008: Windows_4
+    21300010: Windows_5
+    21300012: Windows_6
+    21300014: Windows_7
+    21300016: Windows_8
+    21300018: Windows_9
+    21300020: Windows_10
+    21300022: Windows_11
+    21300024: Windows_12
+    21300026: Windows_13
+    21300028: Windows_14
+    21300030: Windows_15
+    21300032: Windows_16
+    21300034: Windows_17
+    21300036: background
+    21300038: Windows_19
+    21300040: Windows_20
+    21300042: Windows_21
+    21300044: Windows_22
+    21300046: Windows_23
+    21300048: Windows_24
+    21300050: Windows_25
+    21300052: Windows_26
+    21300054: Windows_27
+    21300056: Windows_28
+    21300058: Windows_29
+    21300060: Windows_30
+    21300062: Windows_31
+    21300064: Windows_32
+    21300066: Windows_33
+    21300068: Windows_34
+    21300070: Windows_35
+    21300072: Windows_36
+    21300074: Windows_37
+    21300076: Windows_38
+    21300078: Windows_39
+    21300080: Windows_40
+    21300082: Windows_41
+    21300084: Windows_42
+    21300086: Windows_43
+    21300088: Windows_44
+    21300090: Windows_45
+    21300092: Windows_46
+    21300094: Windows_47
+    21300096: Windows_48
+    21300098: Windows_49
+    21300100: Windows_50
+    21300102: Windows_51
+    21300104: Windows_52
+    21300106: Windows_53
+    21300108: Windows_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Windows_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2948
+        width: 1115
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: 64.62164}
+        - {x: 76.5, y: 82.62164}
+        - {x: 45.5, y: 88.62164}
+        - {x: -59.5, y: 88.62164}
+        - {x: -103.5, y: 70.62164}
+        - {x: -112.5, y: 60.621643}
+        - {x: -117.5, y: 23.621643}
+        - {x: -117.5, y: -37.378357}
+        - {x: -114.5, y: -57.378357}
+        - {x: -97.5, y: -77.37836}
+        - {x: -75.5, y: -88.37836}
+        - {x: 74.5, y: -88.37836}
+        - {x: 104.5, y: -72.37836}
+        - {x: 117.5, y: -34.378357}
+        - {x: 117.5, y: 26.621643}
+    - name: Windows_1
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2948
+        width: 1051
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.420715, y: 88.62164}
+        - {x: -57.579285, y: 88.62164}
+        - {x: -75.579285, y: 81.62164}
+        - {x: -77.579285, y: 79.62164}
+        - {x: -77.579285, y: 78.62164}
+        - {x: -102.579285, y: 73.62164}
+        - {x: -110.579285, y: 57.621643}
+        - {x: -110.579285, y: -71.37836}
+        - {x: -84.579285, y: -88.37836}
+        - {x: 81.420715, y: -88.37836}
+        - {x: 111.420715, y: -67.37836}
+        - {x: 111.420715, y: 60.621643}
+        - {x: 98.420715, y: 76.62164}
+    - name: Windows_2
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3005
+        width: 1051
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.48563, y: 67.111755}
+        - {x: 91.48563, y: 76.111755}
+        - {x: -71.51437, y: 76.111755}
+        - {x: -98.51437, y: 73.111755}
+        - {x: -105.51437, y: 67.111755}
+        - {x: -110.51437, y: 53.111755}
+        - {x: -110.51437, y: -58.888245}
+        - {x: -101.51437, y: -75.888245}
+        - {x: 72.48563, y: -75.888245}
+        - {x: 100.48563, y: -72.888245}
+        - {x: 110.48563, y: -62.888245}
+        - {x: 111.48563, y: -53.888245}
+    - name: Windows_3
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 3642
+        width: 722
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_4
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 3433
+        width: 718
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.56616, y: 18.143005}
+        - {x: -75.56616, y: 16.143005}
+        - {x: -75.56616, y: -15.856995}
+        - {x: -73.56616, y: -17.856995}
+        - {x: 74.43384, y: -17.856995}
+        - {x: 76.43384, y: -15.856995}
+        - {x: 76.43384, y: 18.143005}
+    - name: Windows_5
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 2868
+        width: 532
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2107
+        width: 556
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.459328, y: 43.714478}
+        - {x: 59.459328, y: 77.71448}
+        - {x: 51.459328, y: 79.71448}
+        - {x: -56.540672, y: 79.71448}
+        - {x: -58.540672, y: 78.71448}
+        - {x: -58.540672, y: -24.285522}
+        - {x: -56.540672, y: -59.285522}
+        - {x: -48.540672, y: -79.28552}
+        - {x: 43.459328, y: -79.28552}
+        - {x: 54.459328, y: -71.28552}
+        - {x: 55.459328, y: -61.285522}
+        - {x: 56.459328, y: 31.714478}
+    - name: Windows_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2107
+        width: 556
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.441254, y: 79.71448}
+        - {x: -53.558746, y: 79.71448}
+        - {x: -58.558746, y: 77.71448}
+        - {x: -58.558746, y: -63.285522}
+        - {x: -49.558746, y: -79.28552}
+        - {x: 44.441254, y: -79.28552}
+        - {x: 48.441254, y: -78.28552}
+        - {x: 57.441254, y: -60.285522}
+        - {x: 59.441254, y: -25.285522}
+        - {x: 59.441254, y: 76.71448}
+    - name: Windows_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2107
+        width: 509
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.53, y: 76.71448}
+        - {x: -45.47, y: 76.71448}
+        - {x: -53.47, y: 68.71448}
+        - {x: -53.47, y: -73.28552}
+        - {x: -50.47, y: -76.28552}
+        - {x: 41.53, y: -76.28552}
+        - {x: 54.53, y: -72.28552}
+        - {x: 54.53, y: 64.71448}
+        - {x: 48.53, y: 75.71448}
+    - name: Windows_9
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2739
+        width: 556
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_10
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2312
+        width: 623
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.583374, y: 55.836884}
+        - {x: -65.583374, y: 44.836884}
+        - {x: -65.583374, y: -44.163116}
+        - {x: -46.583374, y: -55.163116}
+        - {x: 47.416626, y: -55.163116}
+        - {x: 66.416626, y: -51.163116}
+        - {x: 66.416626, y: 55.836884}
+    - name: Windows_11
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 2354
+        width: 623
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.6015, y: 51.171753}
+        - {x: -62.6015, y: 49.171753}
+        - {x: -65.6015, y: 27.171753}
+        - {x: -65.6015, y: -44.828247}
+        - {x: -55.6015, y: -50.828247}
+        - {x: 56.3985, y: -50.828247}
+        - {x: 66.3985, y: -42.828247}
+        - {x: 66.3985, y: 42.171753}
+        - {x: 50.3985, y: 51.171753}
+    - name: Windows_12
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 2354
+        width: 623
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.46094, y: 46.171753}
+        - {x: -65.46094, y: -45.828247}
+        - {x: 66.53906, y: -45.828247}
+        - {x: 66.53906, y: 46.171753}
+    - name: Windows_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 967
+        width: 670
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.43714, y: 101.91167}
+        - {x: -70.43714, y: 91.91167}
+        - {x: -70.43714, y: -70.08833}
+        - {x: -53.43714, y: -101.08833}
+        - {x: 54.56286, y: -101.08833}
+        - {x: 71.56286, y: -84.08833}
+        - {x: 71.56286, y: 91.91167}
+        - {x: 63.56286, y: 101.91167}
+    - name: Windows_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 967
+        width: 670
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.529984, y: 101.91167}
+        - {x: -55.529984, y: 78.91167}
+        - {x: -55.529984, y: 75.91167}
+        - {x: -43.529984, y: 64.91167}
+        - {x: -33.529984, y: 55.911667}
+        - {x: -30.529984, y: 52.911667}
+        - {x: -32.529984, y: 53.911667}
+        - {x: -61.529984, y: 70.91167}
+        - {x: -70.52998, y: 61.911667}
+        - {x: -70.52998, y: -82.08833}
+        - {x: -67.52998, y: -101.08833}
+        - {x: 61.470016, y: -101.08833}
+        - {x: 71.47002, y: -64.08833}
+        - {x: 71.47002, y: 88.91167}
+        - {x: 38.470016, y: 101.91167}
+    - name: Windows_15
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 967
+        width: 675
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.928925, y: 96.91167}
+        - {x: 27.928925, y: 92.91167}
+        - {x: 16.928925, y: 101.91167}
+        - {x: -15.071075, y: 101.91167}
+        - {x: -16.071075, y: 94.91167}
+        - {x: -29.071075, y: 99.91167}
+        - {x: -58.071075, y: 79.91167}
+        - {x: -71.071075, y: 69.91167}
+        - {x: -71.071075, y: -74.08833}
+        - {x: -65.071075, y: -101.08833}
+        - {x: 61.928925, y: -101.08833}
+        - {x: 71.928925, y: -70.08833}
+        - {x: 71.928925, y: 76.91167}
+        - {x: 35.928925, y: 96.91167}
+    - name: Windows_16
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 1746
+        width: 649
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.24652, y: 34.276917}
+        - {x: -68.24652, y: 7.2769165}
+        - {x: -68.24652, y: -32.723083}
+        - {x: -58.24652, y: -33.723083}
+        - {x: 69.75348, y: -33.723083}
+        - {x: 69.75348, y: 29.276917}
+        - {x: 58.75348, y: 34.276917}
+    - name: Windows_17
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 1756
+        width: 328
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5012207, y: 24.380432}
+        - {x: -34.50122, y: 11.380432}
+        - {x: -34.50122, y: -14.619568}
+        - {x: -32.50122, y: -23.619568}
+        - {x: 34.49878, y: -23.619568}
+        - {x: 35.49878, y: -20.619568}
+        - {x: 35.49878, y: 12.380432}
+        - {x: 4.4987793, y: 24.380432}
+    - name: background
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 1024
+        width: 620
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.38086, y: 69.90181}
+        - {x: -65.38086, y: 68.90181}
+        - {x: -65.38086, y: -59.09819}
+        - {x: -60.38086, y: -69.09819}
+        - {x: 65.61914, y: -69.09819}
+        - {x: 65.61914, y: 69.90181}
+    - name: Windows_19
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 1580
+        width: 671
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_20
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 1361
+        width: 162
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_21
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1390
+        width: 185
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.543945, y: 10.891113}
+        - {x: 11.543945, y: 18.891113}
+        - {x: -12.456055, y: 18.891113}
+        - {x: -19.456055, y: 15.891113}
+        - {x: -19.456055, y: -4.1088867}
+        - {x: -15.456055, y: -17.108887}
+        - {x: -13.456055, y: -18.108887}
+        - {x: 16.543945, y: -18.108887}
+        - {x: 20.543945, y: -6.1088867}
+        - {x: 20.543945, y: 8.891113}
+    - name: Windows_22
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 1361
+        width: 162
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_23
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1247
+        width: 275
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_24
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1167
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_25
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 1167
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_26
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 1157
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_27
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 1157
+        width: 195
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_28
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1148
+        width: 275
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_29
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 967
+        width: 476
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_30
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 1000
+        width: 123
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_31
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 1000
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_32
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1000
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 74
+        width: 637
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.05957, y: 84.06615}
+        - {x: -53.94043, y: 84.06615}
+        - {x: -64.94043, y: 81.06615}
+        - {x: -66.94043, y: 60.066147}
+        - {x: -66.94043, y: -82.93385}
+        - {x: 64.05957, y: -82.93385}
+        - {x: 68.05957, y: -79.93385}
+        - {x: 68.05957, y: 50.066147}
+        - {x: 67.05957, y: 82.06615}
+    - name: Windows_34
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 74
+        width: 633
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.581757, y: 84.06615}
+        - {x: -65.58176, y: 82.06615}
+        - {x: -66.58176, y: 70.06615}
+        - {x: -66.58176, y: -80.93385}
+        - {x: -65.58176, y: -82.93385}
+        - {x: 67.41824, y: -82.93385}
+        - {x: 67.41824, y: 82.06615}
+        - {x: 56.418243, y: 84.06615}
+    - name: Windows_35
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 112
+        width: 613
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.396057, y: 77.05957}
+        - {x: -64.39606, y: 67.05957}
+        - {x: -64.39606, y: -61.94043}
+        - {x: -60.396057, y: -72.94043}
+        - {x: -56.396057, y: -75.94043}
+        - {x: 65.60394, y: -75.94043}
+        - {x: 65.60394, y: 69.05957}
+        - {x: 61.603943, y: 77.05957}
+    - name: Windows_36
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 791
+        width: 557
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_37
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 706
+        width: 338
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_38
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 703
+        width: 338
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_39
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 706
+        width: 332
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_40
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 703
+        width: 337
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_41
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 211
+        width: 399
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.91742, y: 56.884552}
+        - {x: -41.91742, y: -56.115448}
+        - {x: 41.08258, y: -56.115448}
+        - {x: 43.08258, y: -54.115448}
+        - {x: 43.08258, y: 54.884552}
+        - {x: 41.08258, y: 56.884552}
+    - name: Windows_42
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 554
+        width: 509
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_43
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 554
+        width: 513
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_44
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 425
+        width: 509
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_45
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 273
+        width: 509
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_46
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 273
+        width: 513
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_47
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 345
+        width: 342
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_48
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 345
+        width: 340
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_49
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 278
+        width: 338
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_50
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 116
+        width: 513
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_51
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 116
+        width: 513
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_52
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 112
+        width: 513
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_53
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 285
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Windows_54
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 0
+        width: 286
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
